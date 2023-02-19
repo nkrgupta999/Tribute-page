@@ -20,6 +20,14 @@ The tribute page includes the following features:
 
 To view the tribute page, simply clone the repository and open the `index.html` file in your web browser. You can also view the page live on [GitHub Pages](https://yourusername.github.io/apj-abdul-kalam-tribute-page/).
 
+## Content View 
+
+https://nkrgupta999.github.io/Tribute-page/
+
+## Web-View
+
+https://nkrgupta999.github.io/Tribute-page/tributepg.html
+
 ## Credits
 
 The images used in the tribute page are sourced from [Unsplash](https://unsplash.com/) and [Wikimedia Commons](https://commons.wikimedia.org/), and are licensed under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) and [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) licenses.
