@@ -1,0 +1,62 @@
+hr {
+    width: 75%;
+    border: 5px double black;
+}
+
+.whole {
+    border: 2px solid black;
+    height: 1400px;
+    background-color: wheat;
+}
+
+.name {
+    /* border: 2px solid rgb(250, 247, 247); */
+    border-radius: 15px;
+    width: 75%;
+}
+
+.fname {
+    /* border: 2px dotted red; */
+    color: rgb(121, 76, 76);
+    font-size: xxx-large;
+    text-align: center;
+    /* width: 60%; */
+    margin: 0px 0px 0px 0px;
+    /* padding-left:222px; */
+}
+
+/* .line {
+    border: 2px solid white;
+} */
+.line,
+.pic {
+    display: inline;
+}
+
+.pic {
+    /* border: 2px dashed black; */
+}
+
+.img {
+    /* border: 3px solid red; */
+    width: 21%;
+    float: right;
+    margin: -80px 0px 0px 0px;
+}
+.info{
+    text-align: justify;
+    padding:0px 0px 0px 10px;
+    /* border: 2px solid black; */
+    width: 75%;;
+}
+.h{
+    color: rgb(238, 149, 16);
+    text-decoration: underline;
+    font-weight:900;
+}
+.info2{
+    /* border: 2px solid black; */
+    text-align: justify;
+    padding-left:10px;
+    padding-right:10px;
+}
