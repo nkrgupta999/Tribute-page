@@ -4,21 +4,11 @@ This repository contains a tribute page dedicated to APJ Abdul Kalam, the former
 
 ## Technologies Used
 
-The tribute page is built using HTML, CSS
-## Features
-
-The tribute page includes the following features:
-
-- A responsive design that looks great on all devices
-- A hero section with a background image and a call-to-action button
-- A timeline section that highlights key moments in APJ Abdul Kalam's life
-- A quotes section that displays some of his most inspiring quotes
-- A gallery section that showcases images of him
-- A footer section with social media links
+The tribute page is built using HTML, CSS.
 
 ## Usage
 
-To view the tribute page, simply clone the repository and open the `index.html` file in your web browser. You can also view the page live on [GitHub Pages](https://yourusername.github.io/apj-abdul-kalam-tribute-page/).
+To view the tribute page, simply clone the repository and open the `tributepg.html` file in your web browser.
 
 ## Content View 
 
@@ -32,9 +22,6 @@ https://nkrgupta999.github.io/Tribute-page/tributepg.html
 
 The images used in the tribute page are sourced from [Unsplash](https://unsplash.com/) and [Wikimedia Commons](https://commons.wikimedia.org/), and are licensed under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) and [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) licenses.
 
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
 ## Contributing
 
 This repository is open source and contributions are welcome. If you have updates or corrections to the existing tables, or if you would like to add tables for your own institution, please feel free to submit a pull request.
@@ -53,7 +40,7 @@ Please note that the information contained in this repository is provided for in
 
 
 ## LinkedIn 
-https://www.linkedin.com/in/nitin-kumar-gupta-038297169/
+https://www.linkedin.com/in/nkrgupta999
 
 ## Connect 
-https://linktr.ee/nk_gupta999
+https://linktr.ee/nkrgupta999
